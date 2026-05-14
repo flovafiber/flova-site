@@ -1,2 +1,1 @@
-# flova-site
-Official FLOVA Fiber Website
+# FLOVA Website
